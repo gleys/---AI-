@@ -1,4 +1,4 @@
-# 관세청-충남대 경진대회
+# 관세청-충남대 경진대회 (제출된 통관 신고서 중 우범 화물을 파악)
 
 ![image](https://user-images.githubusercontent.com/26499296/202914277-9252ab1d-cd96-47b5-96fd-22c54ae70f8f.png)
 
